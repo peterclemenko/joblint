@@ -18,8 +18,8 @@
         "node": ">=0.10"
     },
     "dependencies": {
-        "chalk": "0.2",
-        "commander": "~2.0",
+        "chalk": "0.5.1",
+        "commander": "~2.20.3",
         "pad-component": "~0.0",
         "slugg": "~0.1"
     },
